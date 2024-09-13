@@ -53,7 +53,7 @@ Anaconda is a Python distribution that contains many useful data science librari
 	
 	  **_Option 3:_** Download the needed Notebook only:
 
-	  First open the Notebook and click on Raw. Then, press ctrl+s to save it as .ipynb.
+	  First, open the Notebook and click on Raw. Then, press ctrl+s to save it as .ipynb.
 	<br>
 	  _(Note that you’ll have to manually type **.ipynb** after the file name to make this work, as files from GitHub are saved as text files as default.)_
 	<br>
@@ -62,7 +62,7 @@ Anaconda is a Python distribution that contains many useful data science librari
 2. Launch Jupyter Notebook from the start menu; **or**, open a terminal inside the repository folder and execute the following command
 
 ```bash
-jupyter notebook
+Jupiter notebook
 ```
 
 3. Navigate to the desired notebook from the Jupyter notebook dashboard and launch it
